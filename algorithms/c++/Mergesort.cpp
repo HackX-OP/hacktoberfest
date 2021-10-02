@@ -5,6 +5,7 @@
 void Merge(int *A, int low, int high, int mid)
 {
 	
+	
 	int i, j, k, temp[high-low+1];
 	i = low;
 	k = 0;
